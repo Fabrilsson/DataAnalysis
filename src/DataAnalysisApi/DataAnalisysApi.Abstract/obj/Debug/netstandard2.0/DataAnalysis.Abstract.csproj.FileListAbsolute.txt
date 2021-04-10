@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\bin\Debug\netstandard2.0\DataAnalysis.Abstract.deps.json
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\bin\Debug\netstandard2.0\DataAnalysis.Abstract.dll
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\bin\Debug\netstandard2.0\DataAnalysis.Abstract.pdb
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\obj\Debug\netstandard2.0\DataAnalysis.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\obj\Debug\netstandard2.0\DataAnalysis.Abstract.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\obj\Debug\netstandard2.0\DataAnalysis.Abstract.AssemblyInfo.cs
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\obj\Debug\netstandard2.0\DataAnalysis.Abstract.dll
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Abstract\obj\Debug\netstandard2.0\DataAnalysis.Abstract.pdb

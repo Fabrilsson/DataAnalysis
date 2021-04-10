@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewBag.Title = "Carbon";
+}
+
+<div class="row">
+    <div class="col-sm-6">
+        <h2>Carbon</h2>
+        <img src="http://www.glowscript.org/docs/VPythonDocs/images/graph.png" style="width:100%" />
+    </div>
+    <div class="col-sm-6" style="text-align:left">
+        <div class="col-sm-6">
+            <h2>Configure</h2>
+            <div class="btn-group" data-toggle="buttons">
+                <label class="btn btn-primary">
+                    <input type="radio" name="options" id="low" />LOW
+                </label>
+                <label class="btn btn-primary">
+                    <input type="radio" name="options" id="med" />MEDIUM
+                </label>
+                <label class="btn btn-primary active">
+                    <input type="radio" name="options" id="low" />HIGH
+                </label>
+            </div>
+            <br />
+            &nbsp;
+            <div>
+                <h2>Program</h2>
+                <div class="btn-group" data-toggle="buttons" id="programButtons">
+                    <label class="btn btn-primary active">
+                        <input type="radio" name="options" id="low" value="LOW" />LOW
+                    </label>
+                    <label class="btn btn-primary">
+                        <input type="radio" name="options" id="med" value="MEDIUM" />MEDIUM
+                    </label>
+                    <label class="btn btn-primary">
+                        <input type="radio" name="options" id="low" value="HIGH" />HIGH
+                    </label>
+                </div>
+            </div>
+            &nbsp;
+            <div>
+                <ul id="dynamic-list"></ul>
+            </div>
+            &nbsp;
+            <div>
+                <label for="fromDate">From:</label>
+                <input type="date" id="fromDate" />
+                &nbsp;
+                <br />
+                <label for="toDate">To:</label>
+                <input type="date" id="toDate" />
+            </div>
+            &nbsp;
+            <div>
+                <button class="btn btn-primary" onclick="addItem()">add item</button>
+                <button class="btn btn-primary" onclick="removeItem()">remove item</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function addItem() {
+
+        var fromDate = document.getElementById("fromDate");
+        var toDate = document.getElementById("toDate");
+        if (fromDate.value == undefined || fromDate.value == null || fromDate.value == '' || toDate.value == undefined || toDate.value == null || toDate.value == '') {
+            alert("Please, fill date fields before proceding.")
+            return;
+        }
+
+        var outerUl = document.getElementById("dynamic-list");
+        var innerUl = document.createElement("ul");
+        var innerLi = document.createElement("li");
+        var outerLi = document.createElement("li");
+        var programButton = $("#programButtons .active");
+        innerLi.appendChild(document.createTextNode(programButton[0].firstElementChild.value));
+        innerUl.appendChild(innerLi);
+        outerLi.setAttribute('id', fromDate.value);
+        outerLi.appendChild(document.createTextNode("From: " + fromDate.value));
+        outerLi.appendChild(document.createElement("br"));
+        outerLi.appendChild(document.createTextNode("To: " + toDate.value))
+        outerLi.appendChild(innerUl);
+        outerUl.appendChild(outerLi);
+    }
+
+    function removeItem() {
+        var ul = document.getElementById("dynamic-list");
+        var fromDate = document.getElementById("fromDate");
+        var item = document.getElementById(fromDate.value);
+        ul.removeChild(item);
+    }
+</script>

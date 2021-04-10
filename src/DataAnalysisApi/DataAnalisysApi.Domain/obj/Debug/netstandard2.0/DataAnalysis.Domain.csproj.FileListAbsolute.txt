@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\bin\Debug\netstandard2.0\DataAnalysis.Domain.deps.json
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\bin\Debug\netstandard2.0\DataAnalysis.Domain.dll
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\bin\Debug\netstandard2.0\DataAnalysis.Domain.pdb
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\obj\Debug\netstandard2.0\DataAnalysis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\obj\Debug\netstandard2.0\DataAnalysis.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\obj\Debug\netstandard2.0\DataAnalysis.Domain.AssemblyInfo.cs
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\obj\Debug\netstandard2.0\DataAnalysis.Domain.dll
+C:\Users\admin\source\repos\DataAnalysisApi\DataAnalisysApi.Domain\obj\Debug\netstandard2.0\DataAnalysis.Domain.pdb

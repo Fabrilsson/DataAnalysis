@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Abstract.dll
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Data.deps.json
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Data.dll
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Data.pdb
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Abstract.pdb
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.csproj.CopyComplete
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.dll
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\obj\Debug\netstandard2.0\DataAnalisysApi.Data.pdb
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Domain.dll
+C:\Users\admin\source\repos\DataAnalisysApi\DataAnalisysApi.Data\bin\Debug\netstandard2.0\DataAnalisysApi.Domain.pdb
